@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Melo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/76704694/139088480-480e7f07-ba4e-412e-8706-5d80199fbfbf.gif">
+<img align="right" alt="Coding" width="400" heith="400" src="https://user-images.githubusercontent.com/76704694/139088480-480e7f07-ba4e-412e-8706-5d80199fbfbf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasmel0&label=Profile%20views&color=0e75b6&style=flat" alt="lukasmel0" /> </p>
 
