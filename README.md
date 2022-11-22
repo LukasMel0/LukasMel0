@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [alredynotes](https://alredynotes.netlify.app)
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **React, React Native, Node**
 
 - 💬 Ask me about **React, Node**
 
